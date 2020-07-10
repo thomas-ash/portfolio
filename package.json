@@ -1,0 +1,20 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "http-server": "^0.12.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "scrollreveal": "^4.0.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
